@@ -14,7 +14,7 @@
 
 ## Install
 
-1. Install asciinema via: https://asciinema.org/docs/installation
+1. Install asciinema via: (https://docs.asciinema.org/getting-started)
 2. Install svg-term-cli:
       ```sh
       npm install -g svg-term-cli
